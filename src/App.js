@@ -37,6 +37,7 @@ function App() {
         outline: "none",        // 클릭 시 생기는 검정 테두리 제거
         textAlign: "center",        // ★ 가운데 정렬
         textAlignLast: "center",    // ★ 선택된 항목도 가운데 정렬
+        
       }}
     >
       <select
